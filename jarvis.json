@@ -1,0 +1,10 @@
+{
+  "name": "bizbox",
+  "repos": [
+    "/Users/john/dev/bizbox/V3-BMD-APP",
+    "/Users/john/dev/bizbox-apis/V1-SCHEDULING-API",
+    "/Users/john/dev/bizbox-apis/V1-DOCTOR-API",
+    "/Users/john/dev/bizbox-apis/V1-PMR-API",
+    "/Users/john/dev/bizbox-apis/V2-CDM-API"
+  ]
+}
