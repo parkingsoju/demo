@@ -1,6 +1,7 @@
 {
-  "name": "bizbox",
+  "name": "demo",
   "repos": [
+    "/Users/john/dev/ai/jarvis",
     "/Users/john/dev/bizbox/V3-BMD-APP",
     "/Users/john/dev/bizbox-apis/V1-SCHEDULING-API",
     "/Users/john/dev/bizbox-apis/V1-DOCTOR-API",
