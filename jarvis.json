@@ -4,5 +4,8 @@
     "/Users/john/dev/ai/jarvis",
     "/Users/john/dev/playground/notes-api",
     "/Users/john/dev/playground/notes-web"
-  ]
+  ],
+  "autoApprove": {
+    "minConfidence": 0.6
+  }
 }
