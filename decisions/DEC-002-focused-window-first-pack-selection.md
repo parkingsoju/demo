@@ -21,6 +21,11 @@ commits:
   - 'jarvis:cfd3ff2'
   - 'jarvis:6c8f733'
   - 'jarvis:bf098b7'
+  - 'jarvis:a721a0d'
+  - 'jarvis:3f1e9fe'
+  - 'jarvis:aa92e28'
+  - 'jarvis:20eabc7'
+  - 'jarvis:2b7122d'
 ---
 
 With multiple VS Code windows open, every window heartbeats every 10s, so "most recent push" is effectively random. `POST /pack` without an explicit `windowId` picks `byRecency.find(w => w.focused) ?? byRecency[0]`, and returns 409 when no window is registered. Found in slice-4 final review (fix f156a01). Extension tracks focus via `onDidChangeWindowState`.

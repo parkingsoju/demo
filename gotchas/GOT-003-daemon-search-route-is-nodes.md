@@ -18,6 +18,11 @@ commits:
   - 'jarvis:cfd3ff2'
   - 'jarvis:6c8f733'
   - 'jarvis:bf098b7'
+  - 'jarvis:a721a0d'
+  - 'jarvis:3f1e9fe'
+  - 'jarvis:aa92e28'
+  - 'jarvis:20eabc7'
+  - 'jarvis:2b7122d'
 ---
 
 `GET /search` 404s — full-text search lives at `GET /nodes?q=<term>`. Tripped twice during slice-3/4 e2e. Suggestions (SUG-*) are excluded from `/nodes`, `/graph`, and `/related`; sessions are included.
